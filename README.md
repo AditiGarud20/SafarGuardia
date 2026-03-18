@@ -56,7 +56,19 @@ RPF Dashboard: Dedicated interface for Railway Protection Force monitoring
 
 Multilingual Support: Expand accessibility with Marathi & Hindi
 
-Conclusion
+▶️ How to Run the Project
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/SafarGuardia.git
+2️⃣ Frontend Setup
+npm install
+npm run dev
+3️⃣ Backend Setup
+pip install flask pandas pymongo ultralytics
+python main.py
+
+📍 Backend runs at:
+http://127.0.0.1:5001
+📄Conclusion
 
 SafarGuardia transforms women’s safety from reactive response to proactive prevention.By combining AI-powered crowd analytics
 and Community-driven insights the platform identifies potential risks before they escalate. This prototype acts as a scalable bridge between commuters and authorities like the Railway Protection Force (RPF), demonstrating how technology can create a safer, more confident travel experience for women in Mumbai’s local train network
