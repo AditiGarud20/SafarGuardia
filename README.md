@@ -14,13 +14,8 @@ Women commuters can make informed travel decisions, avoid unsafe conditions and 
 🛠️ Technologies Used
 
 Frontend: Vite, React, TypeScript
-
 Logic: JavaScript (ES6+)
-
 Backend & Database: Python (Flask), MongoDB
-
 Data Processing: Pandas
-
 Computer Vision: YOLO (You Only Look Once) for crowd detection and analysis
-
 Version Control: Git & GitHub
