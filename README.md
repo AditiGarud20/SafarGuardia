@@ -48,3 +48,16 @@ Nearby Safe Spots – Police stations & hospitals map
 
 Fake Call Feature – Simulated incoming call for safety deterrence
 
+🚀 Future Enhancements
+
+Live CCTV Integration: Connect YOLO with real-time railway camera feeds
+
+RPF Dashboard: Dedicated interface for Railway Protection Force monitoring
+
+Multilingual Support: Expand accessibility with Marathi & Hindi
+
+Conclusion
+
+SafarGuardia transforms women’s safety from reactive response to proactive prevention.By combining AI-powered crowd analytics
+and Community-driven insights the platform identifies potential risks before they escalate. This prototype acts as a scalable bridge between commuters and authorities like the Railway Protection Force (RPF), demonstrating how technology can create a safer, more confident travel experience for women in Mumbai’s local train network
+
