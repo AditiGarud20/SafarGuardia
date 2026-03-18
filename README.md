@@ -4,12 +4,4 @@ A specialized web-based safety prototype designed for women commuters in Mumbai.
 
 📌 Project Overview
 
-SafarGuardia is a safety-focused prototype aimed at addressing real-world challenges faced by women during local train travel, such as late-night commuting and isolated compartments.
-
-Built using a modern Vite + React (TypeScript) frontend and a Python (Flask) + MongoDB backend, the system integrates intelligent analytics with practical safety tools. It introduces innovative features like:
-
-Compartment crowd density analysis
-
-Station-wise safety indexing
-
-Community-verified safety alerts
+SafarGuardia is a safety-focused prototype aimed at addressing real-world challenges faced by women during local train travel, such as late-night commuting and isolated compartments. Built using a modern Vite + React (TypeScript) frontend and a Python (Flask) + MongoDB backend, the system integrates intelligent analytics with practical safety tools. 
