@@ -14,8 +14,26 @@ Women commuters can make informed travel decisions, avoid unsafe conditions and 
 🛠️ Technologies Used
 
 Frontend: Vite, React, TypeScript
+
 Logic: JavaScript (ES6+)
+
 Backend & Database: Python (Flask), MongoDB
+
 Data Processing: Pandas
+
 Computer Vision: YOLO (You Only Look Once) for crowd detection and analysis
+
 Version Control: Git & GitHub
+
+🌟 Key Features & Innovation
+
+Station-wise Crowd Prediction: A Color-coded safety index:
+(🟢 Safe,
+🟡 Moderate,🔴 Unsafe)
+that helps users plan safer routes, especially during late hours
+
+Compartment Analysis: Users can upload coach images, An AI-based logic analyzes crowd density. Also suggests actions like “Request Constable” for deserted compartments
+
+Community Feedback Portal: Women-only platform for reporting issues. Upvote/downvote system ensures authenticity and spam detection and auto-filtering
+
+Aadhaar-based Verification (Simulated): Secure onboarding concept, Ensures a trusted, women-focused community
