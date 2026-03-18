@@ -48,21 +48,3 @@ Nearby Safe Spots – Police stations & hospitals map
 
 Fake Call Feature – Simulated incoming call for safety deterrence
 
-🗂️ Project Structure
-
-/
-├── src/                # React components (Dashboard, ProfilePage)
-
-├── main.py             # Flask API Entry Point (Port 5001)
-
-├── index.html
-
-├── connect_mongo.py    # MongoDB connection & logging
-
-├── mongo_events.py     # Safety event handling
-
-├── vite.config.ts      # Frontend configuration
-
-├── package.json        # Node.js dependencies
-
-└── README.md           # Documentation
