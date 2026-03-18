@@ -57,12 +57,19 @@ RPF Dashboard: Dedicated interface for Railway Protection Force monitoring
 Multilingual Support: Expand accessibility with Marathi & Hindi
 
 ▶️ How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/SafarGuardia.git
+
+1️⃣ Clone the Repository git clone 
+
+https://github.com/your-username/SafarGuardia.git
+
 2️⃣ Frontend Setup
+
 npm install
+
 npm run dev
+
 3️⃣ Backend Setup
+
 pip install flask pandas pymongo ultralytics
 python main.py
 
